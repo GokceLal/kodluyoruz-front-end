@@ -1,0 +1,40 @@
+h1,h3,nav {
+    text-align: center;
+}
+
+.color-red{
+    color: red;
+}
+
+.background{
+    background-color: aqua;
+}
+
+.color-purple{
+    color: purple;
+}
+
+.color-black{
+    color: black;
+}
+
+img { 
+    width: 200px;
+    height: 300px;
+
+}
+
+.f-25{
+    font-size: 25px;
+}
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 300px;
+}
+
+
