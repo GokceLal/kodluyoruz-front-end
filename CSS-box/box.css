@@ -1,0 +1,41 @@
+.box{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-top: 10px;
+    float: left; /* Kutular yan yana geldi*/
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.container{
+    width: 1000px;
+    margin-left: auto;
+}
+
+.left-bar{
+    width: 200px;
+    float: left;
+}
+.content{
+    width: 800px;
+    float: left;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+
+.card{
+    width: 33%;
+    float: left;
+    padding: auto;
+    background-color: grey;
+}
